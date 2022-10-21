@@ -6,6 +6,14 @@
 
 ## Installation:
 
+clone this repository
+
+```
+git clone https://github.com/Yumiko0828/jwt-api-nodejs.git
+```
+
+### Install dependencies
+
 yarn:
 
 ```
